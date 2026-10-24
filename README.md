@@ -297,7 +297,7 @@ I am always keen to discuss software architecture, intelligent agent development
   <a href="https://careerpathvisualizer.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-Career_Tree-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App" />
   </a>
-  <a href="mailto:likhith.work@example.com">
+  <a href="mailto:likhithym@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
