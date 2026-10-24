@@ -259,13 +259,13 @@ A curated breakdown of the technologies and tools I have actively utilized acros
 ### 🐍 Contribution Activity Stream
 
 <div align="center">
-  <!-- Dynamic Contribution Snake SVG generated via GitHub Actions -->
+  <!-- Dynamic Contribution Snake SVG generated via GitHub Actions with local preview fallback -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LikhithYM/LikhithYM/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LikhithYM/LikhithYM/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/LikhithYM/LikhithYM/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake Animation" src="assets/snake-preview.svg" width="100%">
   </picture>
-  <p><sub><i>Automatically generated via automated GitHub Actions workflow on <code>main</code> branch commits.</i></sub></p>
+  <p><sub><i>Automatically synced via GitHub Actions on <code>main</code> branch commits and every 12 hours.</i></sub></p>
 </div>
 
 <div align="center">
