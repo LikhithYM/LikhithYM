@@ -71,7 +71,7 @@ I'm **Likhith Y M**, a Computer Science undergrad building full-stack applicatio
 <summary><b> Click to expand: Architecture & Technical Details</b></summary>
 <br/>
 
-- **Yojak**: Decouples cognitive planning from execution authorization. High-risk actions (file operations, shell executions) trigger a human-in-the-loop modal with live screen captures. Sub-2ms deterministic rule overhead optimized for local SLMs (Qwen2.5-Coder-7B).
+- **Yojak**: Decouples cognitive planning from execution authorization. High-risk actions (file operations, shell executions) trigger a human-in-the-loop modal with live screen captures. Sub-2ms deterministic rule overhead optimized for local SLMs (Qwen2.5-Coder-7B). NOTE: This is a private repository and it is a research based project and am still working on it
 - **NeuroSent**: Multi-model ML pipeline using Isolation Forest for zero-day anomalies, Random Forest for known attack vectors (DDoS, brute-force, SQLi), and WebSocket streaming into a D3.js interactive SOC dashboard.
 - **AuthentiCert**: Automated credential validation using PyTesseract/PyMuPDF extraction, Error Level Analysis (ELA) to detect digital tampering/spliced text, and SSIM layout comparison against baseline templates.
 - **Career Path Visualizer**: Graph canvas built with ReactFlow, smooth branch centering, dark/light theme switching with Framer Motion, and conversational Gemini API integration with prompt guardrails.
