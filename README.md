@@ -62,7 +62,7 @@ I'm **Likhith Y M**, a Computer Science undergrad building full-stack applicatio
 
 | Project | Summary | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Yojak](https://github.com/LikhithYM/Yojak)** | Deterministic out-of-band security kernel preventing tool misuse in autonomous desktop agents | `Python` `FastAPI` `React` `Ollama` | [Code](https://github.com/LikhithYM/Yojak) |
+| **[Yojak](https://github.com/LikhithYM/Yojak)** | Deterministic out-of-band security kernel preventing tool misuse in autonomous desktop agents. NOTE: It is a private repository as it is a research based project and am still working on it | `Python` `FastAPI` `React` `Ollama` | [Code](https://github.com/LikhithYM/Yojak) |
 | **[NeuroSent](https://github.com/LikhithYM/NeuroSent)** | Real-time cyber threat detection engine streaming ML anomaly predictions to a live SOC UI | `Python` `FastAPI` `scikit-learn` `D3.js` | [Code](https://github.com/LikhithYM/NeuroSent) |
 | **[AuthentiCert](https://github.com/LikhithYM/AuthentiCert)** | Credential verification platform combining OCR with Error Level Analysis (ELA) forensics | `React 19` `Flask` `OpenCV` `Tesseract` | [Code](https://github.com/LikhithYM/AuthentiCert) |
 | **[Career Path Visualizer](https://github.com/LikhithYM/career-path-visualizer)** | Interactive academic roadmap tree navigator with embedded Google Gemini career assistant | `React 19` `Vite` `Tailwind` `Gemini API` | [Live Demo](https://careerpathvisualizer.netlify.app/) · [Code](https://github.com/LikhithYM/career-path-visualizer) |
